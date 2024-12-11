@@ -1,0 +1,23 @@
+h1,h2{
+    color: blueviolet;
+    background-color: rgb(221, 185, 185);
+}
+.box > p{
+    color: firebrick;
+    
+}
+.box li{
+    color: blue;
+}
+li.done {
+    color: rgb(72, 79, 19);
+}
+p.done{
+    color: blue;
+    font-size: 0.5rem;
+}
+
+p{
+    color: rgb(67, 109, 5);
+    
+}
